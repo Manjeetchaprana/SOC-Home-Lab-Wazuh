@@ -1,2 +1,2 @@
 # wazuh-cloud-siem-home-lab
-Built a complete Wazuh SIEM Home Lab for Security Monitoring and Threat Detection.
+A cloud-based SIEM home lab using Wazuh Cloud to monitor a Windows endpoint, analyze security events, and explore threat detection.
