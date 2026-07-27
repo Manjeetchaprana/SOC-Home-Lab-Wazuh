@@ -69,3 +69,9 @@ Windows 11 Endpoint
 - Custom Detection Rules
 - Active Response
 - Attack Simulation
+
+---
+
+## Documentation
+
+For detailed project documentation, see [Documentation.md](Documentation.md).
