@@ -1,1 +1,30 @@
+# Lab Setup
 
+## Objective
+
+Build a cloud-based SIEM environment capable of monitoring endpoint activity.
+
+## Environment
+
+Platform:
+- Wazuh Cloud
+
+Operating System:
+- Windows 11
+
+Agent:
+- Wazuh Agent
+
+Installation Method:
+- PowerShell
+
+## Steps
+
+1. Created a Wazuh Cloud trial account.
+2. Logged into the Wazuh Dashboard.
+3. Navigated to Agent Deployment.
+4. Selected Windows.
+5. Copied the PowerShell installation command.
+6. Opened PowerShell as Administrator.
+7. Executed the installation command.
+8. Verified the endpoint successfully connected.
