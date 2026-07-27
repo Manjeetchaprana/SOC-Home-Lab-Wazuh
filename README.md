@@ -75,3 +75,11 @@ Windows 11 Endpoint
 ## Documentation
 
 For detailed project documentation, see [Documentation.md](Documentation.md).
+
+---
+
+## Scripts
+
+The `Scripts` folder contains the PowerShell script used to install and register the Wazuh Agent on the Windows endpoint.
+
+- `install-wazuh-agent.ps1` – Wazuh Agent installation script (sanitized for public release).
