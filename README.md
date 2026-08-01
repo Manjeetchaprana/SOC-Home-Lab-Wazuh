@@ -46,12 +46,6 @@ Windows 11 Endpoint
 
 ---
 
-## Screenshots
-
-(Add screenshots here)
-
----
-
 ## Skills Demonstrated
 
 - SIEM Fundamentals
@@ -83,3 +77,35 @@ For detailed project documentation, see [Documentation.md](Documentation.md).
 The `Scripts` folder contains the PowerShell script used to install and register the Wazuh Agent on the Windows endpoint.
 
 - `install-wazuh-agent.ps1` – Wazuh Agent installation script (sanitized for public release).
+
+---
+
+## 📸 Screenshots
+
+### 1. Wazuh Dashboard
+
+![Wazuh Dashboard](screenshots/01-Wazuh-Dashboard.png)
+
+---
+
+### 2. Endpoint Agents Dashboard
+
+![Endpoint Agents Dashboard](screenshots/02-Endpoint-agents-dashboard.png)
+
+---
+
+### 3. MITRE ATT&CK Dashboard
+
+![MITRE ATT&CK Dashboard](screenshots/03-Mitre-attack-dashboard.png)
+
+---
+
+### 4. Vulnerability Dashboard
+
+![Vulnerability Dashboard](screenshots/04-Vulnerability-dashboard.png)
+
+---
+
+### 5. File Integrity Monitoring (FIM)
+
+![FIM Dashboard](screenshots/05-FIM-dashboard.png)
