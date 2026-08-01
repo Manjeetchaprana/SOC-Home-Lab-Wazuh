@@ -24,6 +24,9 @@ Windows 11 Endpoint
         ▼
  Alert Analysis
 
+
+ ![Lab Architecture](images/lab-architecture.png)
+
 ---
 
 ## Technologies Used
