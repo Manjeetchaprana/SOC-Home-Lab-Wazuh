@@ -25,7 +25,9 @@ Windows 11 Endpoint
  Alert Analysis
 
 
- ![Lab Architecture](images/lab-architecture.png)
+ ## 🏗️ Lab Architecture
+
+![Lab Architecture](images/Lab_architecture.png)
 
 ---
 
